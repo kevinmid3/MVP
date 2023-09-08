@@ -1,0 +1,66 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f0f0f0;
+}
+
+header {
+  background-color: #6d0d58d8;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+header h1 {
+  font-size: 36px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.mission {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.values {
+  margin-bottom: 20px;
+}
+
+.values h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.values p {
+  margin-bottom: 15px;
+}
+
+.story {
+  margin-bottom: 20px;
+}
+
+.story h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.story p {
+  margin-bottom: 15px;
+}
+
+.join {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.contact {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
