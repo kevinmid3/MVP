@@ -1,6 +1,7 @@
 This is an Alx portfolio project, which involves creating a landing page and its been executed in teams of three from cohort 11; Yellowduke, Maina Ngaruiya, Kevin Obianwu
 
-#About the 
+#About
+App Name: Easy Nav
 
 The main purpose of building this app is to help family and friends stay connected in real time and safe while doing so
 the inspiration behind the innovation was how to fill the gap of demaing issues in tracking, and location of loved once and valuables. its also a collective effort of all my team members
